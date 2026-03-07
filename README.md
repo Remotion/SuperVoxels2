@@ -1,5 +1,7 @@
 # SuperVoxels2 Cinema 4D 2026 Plugins
 
+<img width="2816" height="1536" alt="Logo_A2" src="https://github.com/user-attachments/assets/fd901670-5050-4144-b2d9-8488a6a8e253" />
+
 Second version of a voxel-based generator/cloner for C4D 2026, now with **SuperBrick**.
 
 ## ⚠️ Important Installation Note
